@@ -16,7 +16,7 @@ A Light-weight Project to attempt Quiz based on php.
 - Quiz Summary
 
 
-## Web Page Preview  
+## Preview  
 
 https://github.com/adityapai1/QuickFire/assets/105188352/5901fd42-6142-4d7e-8c67-d6d48cba5a93
 
