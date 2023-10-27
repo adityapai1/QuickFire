@@ -27,14 +27,14 @@ https://github.com/adityapai1/QuickFire/assets/105188352/5901fd42-6142-4d7e-8c67
 
 # Features
 
-##Localization : 
+## Localization : 
 
 ```php
 <?php date_default_timezone_set('Asia/Kolkata'); echo date('H:i:s'). " IST"; ?>
 ```
 
 
-##Email Handling : 
+## Email Handling : 
 
 ```php
 $mail->setFrom('paiaditya250@gmail.com', 'QuizMaster');
@@ -45,7 +45,7 @@ $mail->Subject = "Hey ".$name . ",your Test Score is...";
 ```
 
 
-##Connect PHP to MYSQL: 
+## Connect PHP to MYSQL: 
 
 ```php
 <?php
@@ -61,7 +61,7 @@ if ($conn->connect_error) {
 }?>
 ```
 
-##Session Handling : 
+## Session Handling : 
 
 ```php
 <?php
@@ -74,7 +74,7 @@ exit();
 ?>
 ```
 
-##Array Handling : 
+## Array Handling : 
 
 ```php
     $name = $_SESSION['login_active'][0];
@@ -82,7 +82,7 @@ exit();
 ```
 
 
-##String Handling : 
+## String Handling : 
 
 ```php
 function santize($data)
